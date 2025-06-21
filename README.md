@@ -1,2 +1,3 @@
-# Time_Series_Finance
-Time Series Scripts
+# Time Series for Finance
+
+Time Series Scripts for different finance applications 
